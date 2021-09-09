@@ -19,12 +19,14 @@ Accompaning code for the video series [Programming Robot Mechanics](https://www.
 
 [Part-7](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=8) Unit Testing Robot Class [Code](Part-7-UnitTestRobotClass)
 
-[Part-8](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=9) Newton Method Optimizer [Code](Part-9-NewtonMethod)
+[Part-8](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=9) Visualizing Robot Frames [Code](Part-8-VisualizeRobotFrames)
 
-[Part-9](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=10) Extending Newton Method [Code](Part-10-NewtonMethodVector)
+[Part-9](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=10) Newton Method Optimizer [Code](Part-9-NewtonMethod)
 
-[Part-10](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=11) Numerical Inverse Kinematics [Code](Part-11-NumericalInverseKinematics)
+[Part-10](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=11) Extending Newton Method [Code](Part-10-NewtonMethodVector)
 
-[Part-11](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=12) Jacobian of Robot [Code](Part-12-RobotJacobian)
+[Part-11](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=12) Numerical Inverse Kinematics [Code](Part-11-NumericalInverseKinematics)
 
-[Part-12](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=13) Readme and Unit Tests [Code](Part-13-ReadmeUnitTests)
+[Part-12](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=13) Jacobian of Robot [Code](Part-12-RobotJacobian)
+
+[Part-13](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=14) Readme and Unit Tests [Code](Part-13-ReadmeUnitTests)
