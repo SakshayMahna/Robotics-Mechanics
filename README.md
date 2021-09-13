@@ -30,3 +30,7 @@ Accompaning code for the video series [Programming Robot Mechanics](https://www.
 [Part-12](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=13) Jacobian of Robot [Code](Part-12-RobotJacobian)
 
 [Part-13](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=14) Readme and Unit Tests [Code](Part-13-ReadmeUnitTests)
+
+[Part-14](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=15) Cubic Trajectory Planning [Code](Part-14-CubicInterpolation)
+
+[Part-15](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=16) Quintic Trajectory Planning [Code](Part-15-Quintic Interpolation)
