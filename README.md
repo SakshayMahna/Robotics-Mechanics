@@ -36,3 +36,5 @@ Accompaning code for the video series [Programming Robot Mechanics](https://www.
 [Part-15](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=16) Quintic Trajectory Planning [Code](Part-15-QuinticInterpolation)
 
 [Part-16](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=17) Linear Trajectory Planning [Code](Part-16-LinearInterpolation)
+
+[Part-17](https://www.youtube.com/watch?v=yUZznwKS1Lw&list=PL0sla3wvhSnaMfBNiC0vfKYZ2T2ZfIJj4&index=18) Cubic Spline Interpolation [Code](Part-17-CubicSplineInterpolation)
